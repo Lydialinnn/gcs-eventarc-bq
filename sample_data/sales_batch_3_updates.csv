@@ -1,0 +1,6 @@
+order_id,product_name,quantity,unit_price,order_date,customer_email,region
+ORD-1002,Mechanical Keyboard Pro,2,109.99,2025-01-15,bob@example.com,US-East
+ORD-1005,Webcam 4K Ultra,1,89.99,2025-01-17,eve@example.com,Canada
+ORD-1008,Wireless Charger Duo,3,35.99,2025-01-18,henry@example.com,US-West
+ORD-1016,Thunderbolt Dock,1,249.99,2025-01-23,peter@example.com,US-East
+ORD-1017,Mesh Wi-Fi Router,2,129.99,2025-01-23,quinn@example.com,Canada

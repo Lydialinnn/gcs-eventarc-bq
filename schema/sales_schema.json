@@ -1,0 +1,56 @@
+[
+  {
+    "name": "order_id",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Unique order identifier"
+  },
+  {
+    "name": "product_name",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Name of the product ordered"
+  },
+  {
+    "name": "quantity",
+    "type": "INTEGER",
+    "mode": "NULLABLE",
+    "description": "Number of units ordered"
+  },
+  {
+    "name": "unit_price",
+    "type": "FLOAT",
+    "mode": "NULLABLE",
+    "description": "Price per unit in USD"
+  },
+  {
+    "name": "order_date",
+    "type": "DATE",
+    "mode": "NULLABLE",
+    "description": "Date the order was placed"
+  },
+  {
+    "name": "customer_email",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Customer email address"
+  },
+  {
+    "name": "region",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Geographic region of the customer"
+  },
+  {
+    "name": "loaded_at",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE",
+    "description": "Timestamp when the row was loaded into BigQuery"
+  },
+  {
+    "name": "source_file",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "GCS URI of the source file that contained this row"
+  }
+]

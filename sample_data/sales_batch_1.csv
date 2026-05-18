@@ -1,0 +1,11 @@
+order_id,product_name,quantity,unit_price,order_date,customer_email,region
+ORD-1001,Wireless Mouse,2,29.99,2025-01-15,alice@example.com,US-East
+ORD-1002,Mechanical Keyboard,1,89.99,2025-01-15,bob@example.com,US-West
+ORD-1003,USB-C Hub,3,45.50,2025-01-16,charlie@example.com,Canada
+ORD-1004,Monitor Stand,1,34.99,2025-01-16,diana@example.com,US-East
+ORD-1005,Webcam HD,2,59.99,2025-01-17,eve@example.com,US-West
+ORD-1006,Laptop Sleeve,4,19.99,2025-01-17,frank@example.com,Canada
+ORD-1007,Desk Lamp,1,42.00,2025-01-18,grace@example.com,US-East
+ORD-1008,Wireless Charger,2,25.99,2025-01-18,henry@example.com,US-West
+ORD-1009,Bluetooth Speaker,1,74.99,2025-01-19,iris@example.com,Canada
+ORD-1010,Noise Cancelling Headphones,1,199.99,2025-01-19,jack@example.com,US-East

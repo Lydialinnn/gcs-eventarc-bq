@@ -1,0 +1,6 @@
+order_id,product_name,quantity,unit_price,order_date,customer_email,region
+ORD-1011,Ergonomic Chair,1,349.99,2025-01-20,karen@example.com,US-East
+ORD-1012,Standing Desk Mat,2,39.99,2025-01-20,leo@example.com,US-West
+ORD-1013,Cable Management Kit,3,15.99,2025-01-21,maria@example.com,Canada
+ORD-1014,Screen Protector,5,9.99,2025-01-21,nathan@example.com,US-East
+ORD-1015,Portable SSD 1TB,1,109.99,2025-01-22,olivia@example.com,US-West
